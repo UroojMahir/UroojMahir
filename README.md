@@ -1,26 +1,27 @@
-<!-- ========== 1. Typing Animation Header ========== -->
-<!-- Replace the text content after lines=, use + to connect words, ; to separate lines -->
+<!-- ========== 1. The Enchanted Banner ========== -->
+<!-- Replace YOUR_IMAGE_LINK_HERE with the raw link to the image you uploaded -->
+<p align="center">
+  <img src="https://www.pinterest.com/pin/296956169205364705/" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 255, 128, 0.4);" alt="Enchanted Forest" />
+</p>
+
+<!-- ========== 2. Magical Typing Header ========== -->
+<!-- Soft pastel green and pink colors -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hello+There!+I'm+Urooj;I+code+and+I+drink+coffee;Welcome+to+my+whimsical+corner&font=Fira+Code&center=true&width=500&height=50&color=36BCF7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+enchanted+corner;Where+code+meets+magic;Just+a+fairy+debugging+in+the+forest&font=Playfair+Display&center=true&width=600&height=60&color=FFB6C1&vCenter=true&size=24" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ========== 2. Custom Fun Badge ========== -->
-<!-- These badges don't show skills, they show personality. Colors can be changed arbitrarily, format: text-color -->
+<!-- ========== 3. Whimsical Nature Badges ========== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profession-Overthinker-ff69b4?style=for-the-badge" alt="Badge">
-  <img src="https://img.shields.io/badge/Fuel-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Badge">
-  <img src="https://img.shields.io/badge/Status-Vibing-purple?style=for-the-badge" alt="Badge">
+  <img src="https://img.shields.io/badge/Class-Forest_Fairy-7FFFD4?style=for-the-badge&logo=leaf" alt="Badge">
+  <img src="https://img.shields.io/badge/Magic-Photosynthesis-FFB6C1?style=for-the-badge&logo=flower" alt="Badge">
+  <img src="https://img.shields.io/badge/Status-Lost_in_the_Woods-DDA0DD?style=for-the-badge&logo=butterfly" alt="Badge">
 </p>
 
-<!-- ========== 3. Random Haiku ========== -->
-<!-- This generates a tech-themed haiku, refreshed every 24 hours -->
-<p align="center">
-  <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=vertical&border=true" alt="Haiku" />
-</p>
+<br/>
 
-<!-- ========== 4. Snake Animation ========== -->
+<!-- ========== 4. The Snake (Updated to match your username) ========== -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UroojMahir/UroojMahir/output/github-snake-dark.svg">
@@ -28,7 +29,8 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/UroojMahir/UroojMahir/output/github-snake.svg">
   </picture>
 </p>
-<!-- ========== 5. Whimsical One-Liner ========== -->
+
+<!-- ========== 5. A Magical Quote ========== -->
 <p align="center">
-  <i>"I debug with console.log and I'm not ashamed."</i>
+  <i>"Even the smallest line of code can change the course of the future."</i>
 </p>
