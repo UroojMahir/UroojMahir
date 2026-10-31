@@ -20,16 +20,14 @@
   <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=vertical&border=true" alt="Haiku" />
 </p>
 
-<!-- ========== 4. Snake Animation (Key: Must configure Action first, see Step 3) ========== -->
-<!-- Automatically switches between light/dark mode snake -->
+<!-- ========== 4. Snake Animation ========== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UroojMahir/UroojMahir/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UroojMahir/UroojMahir/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/UroojMahir/UroojMahir/output/github-snake.svg">
   </picture>
 </p>
-
 <!-- ========== 5. Whimsical One-Liner ========== -->
 <p align="center">
   <i>"I debug with console.log and I'm not ashamed."</i>
